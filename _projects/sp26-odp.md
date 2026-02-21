@@ -12,8 +12,8 @@ header-includes:
 --- 
 
 # Spotted Lanternflies
-**Team:** _Sinicus_ 
-**Client(s):** _Cornell CALS Extension / E\&J Gallo Winery / National Grape_
+**Team:** *Sinicus* \
+**Client:** *Cornell CALS Extension*, *E\&J Gallo Winery*, *National Grape*
 
 ## Problem statement
 

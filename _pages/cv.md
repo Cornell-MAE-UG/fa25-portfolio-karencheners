@@ -7,7 +7,8 @@ permalink: /cv/
 
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
-**Email:** [kc2275@cornell.edu](mailto:kc2275@cornell.edu) | | | **Phone:** +1 (917) 378-0677
+**Email:** [kc2275@cornell.edu](mailto:kc2275@cornell.edu) \
+**Phone:** +1 (917) 378-0677
 
 ---
 
@@ -27,7 +28,7 @@ permalink: /cv/
 
 #### Work Experience
 - **Office of Inclusive Excellence** \
-  *Peer Tutor/*, September 2025 – Present \
+  *Peer Tutor*, September 2025 – Present \
   - Reinforce foundations in differential equations, linear algebra, and statics, preparing 10+ students for advanced coursework.
   - Improve content retention through active recall and targeted practice problems in individual sessions and group study jams.
 - **Intrepid Museum** \

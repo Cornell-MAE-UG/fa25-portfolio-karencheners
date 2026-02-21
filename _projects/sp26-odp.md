@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Heat Exchanger Analysis
-description: Thermodynamics
+title: Open Design Project
+description: MAE 2250
 image: 
 ---
 Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.

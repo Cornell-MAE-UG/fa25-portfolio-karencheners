@@ -1,14 +1,13 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Karen Chen - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
-
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [kc2275@cornell.edu](mailto:kc2275@cornell.edu) | | | **Phone:** +1 (917) 378-0677
 
 ---
 
@@ -20,12 +19,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
-
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
-
+  GPA: 4.08/4.0 | Graduation: December 2027
 ---
 
 #### Skills

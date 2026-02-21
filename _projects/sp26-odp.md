@@ -13,7 +13,7 @@ header-includes:
 
 # Spotted Lanternflies <br>
 **Team:** *Sinicus* <br>
-**Client:** *Cornell CALS Extension*, *El&J Gallo Winery*, *National Grape*
+**Client:** *Cornell CALS Extension*, *E&J Gallo Winery*, *National Grape*
 
 ## Problem statement
 

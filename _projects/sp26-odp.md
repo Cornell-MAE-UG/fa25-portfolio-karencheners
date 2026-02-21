@@ -87,7 +87,7 @@ Solving this problem is beneficial to the grape industry, as preventing SLFs fro
 
 <div>
 <figure style="text-align: center;">
-  <img src="{{ '/assets/images/odp_figure.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/2250/concept.jpeg' | relative_url }}"
        alt="odp diagram"
        style="max-width:100%; height:auto;">
   <figcaption>

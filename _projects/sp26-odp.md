@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MAE 2250":" Open Design Project
+title: MAE 2250: Open Design Project
 image: 
 ---
 

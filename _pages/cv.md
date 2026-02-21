@@ -14,8 +14,9 @@ permalink: /cv/
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 4.08/4.0 | Graduation: December 2027
+  *Bachelor of Science in Mechanical and Aerospace Engineering*
+  GPA: 4.08/4.0
+  Graduation: December 2027
 
 ---
 

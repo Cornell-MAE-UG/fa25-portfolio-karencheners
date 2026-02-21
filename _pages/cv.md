@@ -20,12 +20,13 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
   GPA: 4.08/4.0 | Graduation: December 2027
+
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360, ANSYS
+- **Programming:** Python, MATLAB 
+- **Tools:** 3D Printing, Laser Cutting 
 
 ---
 
@@ -58,11 +59,4 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 #### Extracurricular Activities
 - Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
-
----
-
-#### References
-Available upon request.
-
----
+- Volunteer for [Event/Organization Name]

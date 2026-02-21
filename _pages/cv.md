@@ -39,8 +39,6 @@ permalink: /cv/
   - Presented weekly prototypes to 20+ museum visitors and staff, and applied feedback to refine designs.
   - Networked with women professionals in the aerospace industry to learn about career pathways and industry perspectives.
 
-
-
 ---
 
 #### Extracurricular Activities

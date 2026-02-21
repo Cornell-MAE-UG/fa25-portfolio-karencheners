@@ -11,11 +11,6 @@ permalink: /cv/
 
 ---
 
-#### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
-
----
-
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
@@ -25,38 +20,23 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 #### Skills
 - **Software:** Autodesk Fusion 360, ANSYS
-- **Programming:** Python, MATLAB 
-- **Tools:** 3D Printing, Laser Cutting 
-
----
-
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Programming:** Arduino, Python, MATLAB
+- **Tools:** 3D Printing
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Office of Inclusive Excellence**
+  /Peer Tutor/
+  September 2025 – Present
+  - Reinforce foundations in differential equations, linear algebra, and statics, preparing 10+ students for advanced coursework.
+  - Improve content retention through active recall and targeted practice problems in individual sessions and group study jams.
+- **Intrepid Museum**
+  /Peer Tutor/
 
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]
+- CU Pro-Yos
+- Illuminations
